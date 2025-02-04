@@ -2,8 +2,8 @@
 # DeepSeek Code Companion 🤖
 
 An intelligent AI pair programmer with built-in debugging capabilities, powered by Ollama and LangChain.
+![image](https://github.com/user-attachments/assets/e544c30b-cebf-4485-bf2f-4f53ea90eda1)
 
-![Demo Screenshot](./screenshot.png)
 
 ## Features ✨
 
